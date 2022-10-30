@@ -3,6 +3,8 @@
 ## User Story
 In this module one mini project, we had to refactor and improve the function of the Heriseon homepage. 
 
+The webpage contains links to services provided by this company with short decriptions of each one. As well as the possible outcomes of working with Horiseon. There are also images its employees working and other related content
+
 As a student, I used HTML code to be able to make all links work. Some consolidations of elements were made on the CSS style sheet were also made.
 
 ## Acceptance Criteria
