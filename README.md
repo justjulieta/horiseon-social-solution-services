@@ -1,4 +1,4 @@
-# Module One Challenge 
+# Horiseon Social Solution Services
 
 ## User Story
 In this module one mini project, we had to refactor and improve the function of the Heriseon homepage. 
@@ -26,7 +26,7 @@ It's done when the URL of the GitHub repository that contains my code is submitt
 ## Assest
 The following image demonstrates the web application's appearance and functionality:
 
-[placeholder image] (file:///Users/julietaramirez-solisnguyen/Desktop/Horiseon%20Webpage.png)
+![alt="Horiseon employees gather at the company's meeting room to discuss ideas](images/Horiseon Website.png)
 
 ## Support
 For any issues with homepage loading, please contact me by email: julieta.ramirez27@gmail.com
